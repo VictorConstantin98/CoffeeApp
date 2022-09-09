@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\CoffeeApp.exe
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\CoffeeApp.deps.json
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\CoffeeApp.runtimeconfig.json
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\CoffeeApp.dll
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\ref\CoffeeApp.dll
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\bin\Debug\net6.0\CoffeeApp.pdb
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.dll
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\ref\CoffeeApp.dll
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.pdb
+C:\Users\Costi\source\repos\CoffeeApp\CoffeeApp\obj\Debug\net6.0\CoffeeApp.genruntimeconfig.cache
